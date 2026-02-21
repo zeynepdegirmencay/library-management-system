@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 0,
+    "Title": "Don Kişot",
+    "Author": "Miguel de Cervantes",
+    "Genre": null,
+    "Publisher": "Can Yayınları",
+    "ISBN": "23541379",
+    "Stock": 27,
+    "Year": 100,
+    "BorrowCount": 17,
+    "IsBorrowed": false,
+    "StockCount": 27
+  },
+  {
+    "Id": 0,
+    "Title": "Hayvan Çiftliği",
+    "Author": "George Orwell",
+    "Genre": null,
+    "Publisher": "Can Yayınları",
+    "ISBN": "978-975-07-1575-6",
+    "Stock": 15,
+    "Year": 100,
+    "BorrowCount": 1,
+    "IsBorrowed": false,
+    "StockCount": 15
+  },
+  {
+    "Id": 0,
+    "Title": "Küçük Prens",
+    "Author": " Antoine de Saint-Exupéry",
+    "Genre": null,
+    "Publisher": " Yapı Kredi Yayınları",
+    "ISBN": " 978-975-08-0364-4",
+    "Stock": 103,
+    "Year": 100,
+    "BorrowCount": 0,
+    "IsBorrowed": false,
+    "StockCount": 103
+  },
+  {
+    "Id": 0,
+    "Title": "Sefiller",
+    "Author": "Victor Hugo",
+    "Genre": null,
+    "Publisher": " Can Yayınları",
+    "ISBN": "978-975-07-2827-2",
+    "Stock": 100,
+    "Year": 100,
+    "BorrowCount": 2,
+    "IsBorrowed": false,
+    "StockCount": 100
+  }
+]

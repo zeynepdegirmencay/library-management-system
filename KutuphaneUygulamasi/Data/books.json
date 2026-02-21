@@ -1,0 +1,51 @@
+﻿[
+    {
+        "Id": 1,
+        "Title": "1984",
+        "Author": "George Orwell",
+        "GenreId": 1,
+        "Publisher": "Secker & Warburg",
+        "ISBN": "1234567890",
+        "Stock": 4,
+        "Year": 1949,
+        "BorrowCount": 0,
+        "CoverImagePath": "Images/1984.jpg"
+    },
+    {
+        "Id": 2,
+        "Title": "Sefiller",
+        "Author": "Victor Hugo",
+        "GenreId": 2,
+        "Publisher": "Penguin",
+        "ISBN": "9876543210",
+        "Stock": 6,
+        "Year": 1862,
+        "BorrowCount": 0,
+        "CoverImagePath": "Images/sefiller.jpg"
+    },
+    {
+        "Id": 3,
+        "Title": "Dune",
+        "Author": "Frank Herbert",
+        "GenreId": 1,
+        "Publisher": "Chilton Books",
+        "ISBN": "1122334455",
+        "Stock": 3,
+        "Year": 1965,
+        "BorrowCount": 2,
+        "CoverImagePath": "Images/dune.jpg"
+    },
+    {
+        "Id": 4,
+        "Title": "Yüzüklerin Efendisi",
+        "Author": "J.R.R. Tolkien",
+        "GenreId": 3,
+        "Publisher": "George Allen & Unwin",
+        "ISBN": "6677889900",
+        "Stock": 5,
+        "Year": 1954,
+        "BorrowCount": 0,
+        "CoverImagePath": "Images/yuzuklerin-efendisi.jpg"
+    }
+]
+

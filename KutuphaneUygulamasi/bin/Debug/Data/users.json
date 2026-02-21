@@ -1,0 +1,37 @@
+[
+  {
+    "Username": "keremokan",
+    "Password": "123",
+    "IsAdmin": false
+  },
+  {
+    "Username": "admin",
+    "Password": "admin123",
+    "IsAdmin": false
+  },
+  {
+    "Username": "keremokn1",
+    "Password": "kerem123",
+    "IsAdmin": false
+  },
+  {
+    "Username": "abc",
+    "Password": "123456",
+    "IsAdmin": false
+  },
+  {
+    "Username": "eren1",
+    "Password": "123",
+    "IsAdmin": false
+  },
+  {
+    "Username": "zeynep",
+    "Password": "123",
+    "IsAdmin": true
+  },
+  {
+    "Username": "123",
+    "Password": "123",
+    "IsAdmin": true
+  }
+]

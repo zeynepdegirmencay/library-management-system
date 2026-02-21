@@ -1,0 +1,38 @@
+﻿[
+    {
+        "Id": 1,
+        "Name": "Bilim Kurgu"
+    },
+    {
+        "Id": 2,
+        "Name": "Klasik"
+    },
+    {
+        "Id": 3,
+        "Name": "Fantastik"
+    },
+    {
+        "Id": 4,
+        "Name": "Tarih"
+    },
+    {
+        "Id": 5,
+        "Name": "Psikoloji"
+    },
+    {
+        "Id": 6,
+        "Name": "Felsefe"
+    },
+    {
+        "Id": 7,
+        "Name": "Macera"
+    },
+    {
+        "Id": 8,
+        "Name": "Polisiye"
+    },
+    {
+        "Id": 9,
+        "Name": "Roman"
+    }
+]
